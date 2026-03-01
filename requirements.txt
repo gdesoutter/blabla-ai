@@ -1,0 +1,4 @@
+ollama
+rich
+pyfiglet
+prompt_toolkit
