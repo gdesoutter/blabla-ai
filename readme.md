@@ -15,9 +15,9 @@ Voici à quoi ressemble l'interface en action :
 ![L'interface TUI complète](medias/screen2.png)
 
 ## 🌟 Points Forts
-- **Markdown Ready** : Rendu impeccable des blocs de code et du texte formaté.
+- **Markdown Ready** : Rendu esthétique des blocs de code et du texte formaté.
 - **Contexte Intelligent** : L'IA se souvient de l'historique de la conversation.
-- **Barre d'État Live** : Un spinner s'anime en bas de l'écran pendant que le Mac Mini réfléchit.
+- **Barre d'État Live** : Un spinner s'anime en bas de l'écran pendant que le modèle réfléchit.
 - **Saisie Robuste** : Utilisation de `prompt_toolkit` pour une édition multi-ligne sans bugs.
 
 ## 🛠 Installation Rapide
