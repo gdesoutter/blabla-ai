@@ -1,8 +1,8 @@
 ## 🤖 BLABLA AI
 
-> Une interface terminal pour discuter avec ses modèles Ollama locaux.
+> Une interface terminal pour discuter avec ses modèles Ollama.
 
-Je voulais pouvoir requeter mon modèle hébergé sur Ollama en terminal plutot que via openwebui, j'ai donc créer ce petit script en essayant de faire un rendu esthétique.
+Je voulais pouvoir requeter mon modèle hébergé sur mon serveur Ollama en terminal plutot que via openwebui ou une connexion ssh, j'ai donc créer ce petit script en essayant de faire un rendu esthétique.
 
 ## 📸 Aperçu
 
