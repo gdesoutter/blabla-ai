@@ -1,12 +1,12 @@
 # 🤖 BLABLA AI
 
-**Blabla AI** est un client terminal robuste et élégant pour interagir avec des modèles de langage locaux via **Ollama**.
+**Blabla AI** est une app python en terminal pour interagir avec des modèles de langage locaux via **Ollama**.
 
 ---
 
 ## ✨ Fonctionnalités clés
 
-* **Sélection Intelligente au Démarrage** : Scan automatique de votre serveur Ollama (Mac Mini) et affichage d'une liste numérotée pour choisir votre modèle sans erreur de frappe.
+* **Sélection Intelligente au Démarrage** : Scan automatique de votre serveur Ollama et affichage d'une liste numérotée pour choisir votre modèle sans erreur de frappe.
 * **Vérification de Santé (Health Check)** : Le script vérifie la connexion au serveur et la disponibilité des modèles avant de lancer la session.
 * **Interface Visuelle Double Cadre** : 
     * **Utilisateur (Vert)** : Vos messages s'affichent dans un panneau vert avec détection intelligente de syntaxe (Markdown & Python).
@@ -28,7 +28,7 @@
 ## 🚀 Installation
 
 ### 1. Prérequis
-Assurez-vous d'avoir **Python 3.10+** et un serveur **Ollama** actif (par défaut sur `http://macmini:11434`).
+Assurez-vous d'avoir **Python 3.10+** et un serveur **Ollama** actif (par défaut le mien est sur `http://macmini:11434`).
 
 ### 2. Dépendances
 Installez les outils nécessaires :
